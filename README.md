@@ -1,8 +1,8 @@
 # BuilderSheetRust
 
-This is a runtime library for using sprite sheets generated from [https://github.com/ericrobolson/BuilderGenerator](BuilderGenerator).
+This is a runtime library for using sprite sheets generated from https://github.com/ericrobolson/BuilderGenerator.
 
-Checkout the `example` folder in [https://github.com/ericrobolson/BuilderGenerator/tree/main/example](the main repo) for client side usage.
+Checkout the `example` folder in https://github.com/ericrobolson/BuilderGenerator/tree/main/example for client side usage.
 
 ## Usage
 ### Loading
